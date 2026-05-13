@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Mizah Mühendisliği Banner" width="100%">
+</div>
+
 # 🎭 Mizah Mühendisliği: İnce Zekânın ve Zarif Kelamın Anatomisi
 
 > *"Mizah; zekânın zarafetle, kelimelerin tebessümle raks etmesidir. Güldürmek soytarıların, gülümsetmek ise zekâların işidir."*
