@@ -12,13 +12,15 @@ Bu eser, sıradan bir sohbeti unutulmaz bir anıya dönüştürmek, kelimelerin 
 
 ## 📚 Külliyat Dizini (Modüller)
 
-Mizah Mühendisliği külliyatı, temel prensiplerden ileri seviye tekniklere kadar 5 ana modülden oluşmaktadır:
+Mizah Mühendisliği külliyatı, temel prensiplerden ileri seviye tekniklere ve sosyolojik dinamiklere kadar 7 ana modülden oluşmaktadır:
 
 1. **[Mukaddime ve Temel Erdemler](./01-Mukaddime-ve-Temel-Erdemler)**: Öz-kabul, sükûnet ve müşahade yeteneği.
 2. **[Sanatın İncelikleri](./02-Sanatin-Incelikleri)**: Zamanlama (Timing), bedenin dili, doğaçlama ve beklentinin kırılması.
 3. **[Kriz Yönetimi ve Metakomedi](./03-Kriz-Yonetimi-ve-Metakomedi)**: Başarısız şakaları kurtarma, sessizliği sahiplenme ve mizahın ahlakı.
 4. **[İleri Seviye Taktikler](./04-Ileri-Seviye-Taktikler)**: İroni, kinaye, mübalağa ve kural yıkıcı üçlemeler.
 5. **[Hazırcevaplık ve Zekâ Oyunları](./05-Hazircevaplik-ve-Zeka-Oyunlari)**: Hızlı yanıt verme sanatı (Repartee), diyalektiği tersine çevirme ve zihinsel çeviklik egzersizleri.
+6. **[Sosyal Dinamikler ve Hiyerarşi](./06-Sosyal-Dinamikler-ve-Hiyerarsi)**: Mizah ile otoriteyi sarsma, grup psikolojisi ve odanın ağırlık merkezini yönetme.
+7. **[Kelimelerin Simyası](./07-Kelimelerin-Simyasi)**: Sessiz harflerin komedisi, aşırı özgül tasvirler ve zaman kiplerinin gücü.
 
 ---
 
@@ -29,7 +31,6 @@ Bu sanatı icra edebilmek için kişinin ruhunda ve zihninde şu temellerin sars
 *   **Öz-Kabul (Nefs-i Mutmainne):** İnsanın önce kendi kusurlarına, noksanlarına ve trajedilerine tebessüm edebilmesi. Öz-kabul, mizahın en kurşun geçirmez yeleğidir.
 *   **Derin Müşahade (Gözlem ve Feraset):** Sadece bakmakla kalmayıp, odayı, insanları, eşyaların duruşunu ve anın içindeki kör noktaları bir keskin nişancı dikkatiyle görebilmek.
 *   **Sükûnet (Duruşun Asaleti):** En keskin fıkrayı veya ironiyi anlatırken bile yüzdeki o dingin, telaşsız ifadeyi koruyabilmek. Heyecan, mizahın en büyük düşmanıdır.
-*   **Empati ve Sınır İhlali (Dengenin İpi):** Mizah, nezaket ile küstahlık arasındaki o ince ipte yürümektir. Muhatabın sınırlarını bilmek, onu kırmadan ama şaşırtarak o ipin üzerinde dans etmeyi gerektirir.
 
 ## 📖 Birinci Fasıl: Sanatın İncelikleri ve Kaideler
 
@@ -37,29 +38,27 @@ Bu sanatı icra edebilmek için kişinin ruhunda ve zihninde şu temellerin sars
 *   **Hicv-i Nefs (Kendiyle Barışık Olma Sanatı):** Kendine gülebilen insan, etrafına yıkılmaz bir karizma duvarı örer.
 *   **Fikrin Yön Değiştirmesi (Beklentinin Kırılması):** İnsan zihni tahmin etmeyi sever. Ciddi bir giriş yapıp, dinleyenleri hiç beklemedikleri kadar absürt bir sokağa çıkardığınızda, o bilişsel şaşkınlık anı kahkahaya dönüşür.
 *   **Yad Etme (Eski Bir Tebessümü Çağırmak / Callback):** Hiç alakası olmayan bir konunun tam ortasında, o eski detayı ince bir iplikle şimdiki zamana bağlamak.
-*   **Lisan-ı Hâl (Bedenin Fısıltısı):** Kelimeler bedenin duruşuyla tasdik edilmezse havada asılı kalır. O "kabullenmiş çaresizlik" bakışı, binlerce kelimeden daha kuvvetlidir.
+*   **Lisan-ı Hâl (Bedenin Fısıltısı):** Kelimeler bedenin duruşuyla tasdik edilmezse havada asılı kalır.
 
 ## 🌪️ İkinci Fasıl: Krizlerin Yönetimi ve Buz Tutan Anlar
 
-Her söz hedefini bulmaz, her nükte tebessüm yaratmaz. Eğer ettiğin bir kelam ortamda derin, soğuk ve yargılayıcı bir sessizlik yarattıysa, şu yolu izle:
-
-1.  **Asla İzah Etme:** *"Aslında orada şunu kastetmiştim..."* diyerek sözün ağırlığını daha da düşürme. Mizah açıklanmaz.
-2.  **Sessizliği Sahiplen (Metakomedi):** O tuhaf anı kucakla. *"Bu sessizliğin tablosunu yaptırıp salonuma asacağım"* diyerek, o soğuk rüzgarı kendi lehine çevir.
-3.  **Haddini Bilmek:** Kibir, aşağılama ve başkasının kapanmayan yarası üzerinden mizah yapılmaz. Punching up (yukarıya vur), punching down (aşağıya vurma).
+Her söz hedefini bulmaz, her nükte tebessüm yaratmaz. Eğer ettiğin bir kelam ortamda derin, soğuk ve yargılayıcı bir sessizlik yarattıysa:
+1.  **Asla İzah Etme:** Şaka açıklanmaz.
+2.  **Sessizliği Sahiplen (Metakomedi):** O tuhaf anı kucakla ve durumu kendi lehine çevir.
+3.  **Haddini Bilmek:** Punching up (yukarıya vur), punching down (aşağıya vurma).
 
 ## 🧠 Üçüncü Fasıl: İleri Seviye Taktikler (Mühendisin Alet Çantası)
 
-*   **İroni ve Kinaye:** Kastettiğin şeyin tam tersini, büyük bir ciddiyetle söylemek. (Sırılsıklam olmuşken *"Harika bir gün, tam da saçlarımın neme ihtiyacı vardı"* demek).
-*   **Üçleme Kuralı (Rule of Three):** İlk ikisi mantıklı ve beklendik, üçüncüsü ise sürpriz olmalıdır. *"Başarının sırrı: Çok çalışmak, az uyumak ve dayının kim olduğu."*
-*   **Mimiksiz İcra (Deadpan):** Cümleni kurarken kendi sözüne ilk gülen sen olma. Ciddi bir yüzle (sükûnetle) söylenen absürt bir söz, kahkahalarla anlatılan bir hikayeden çok daha derine işler.
+*   **İroni ve Kinaye:** Kastettiğin şeyin tam tersini, büyük bir ciddiyetle söylemek. 
+*   **Üçleme Kuralı (Rule of Three):** İlk ikisi mantıklı ve beklendik, üçüncüsü ise sürpriz olmalıdır.
+*   **Mimiksiz İcra (Deadpan):** Cümleni kurarken kendi sözüne ilk gülen sen olma.
 
-## ⚔️ Dördüncü Fasıl: Hazırcevaplık (Repartee) ve Zekâ Oyunları
+## ⚔️ Dördüncü Fasıl: Hazırcevaplık (Repartee) ve Sosyal Dinamikler
 
-Hazırcevaplık, zekânın kılıcını kınından saniyenin onda biri hızında çekmektir. Tartışmayı kavgaya dönüştürmeden, karşı tarafı sadece kelimelerle ve nezaket sınırları içinde silahsız bırakmaktır.
-
-*   **Çerçeveyi Belirlemek:** Bir soruya doğrudan cevap vermek yerine, sorunun önermesini yok eden başka bir soru sormak veya paradoks yaratmak zihinsel üstünlüğü size geçirir.
-*   **"Evet, ve..." Kuralı:** Doğaçlama tiyatrosunun temel kuralıdır. Bir sohbette söylenen hiçbir şeyi reddetmeyin. Kabul edin ve üstüne daha absürt bir şey ekleyin.
-*   **Duygusal Mesafe:** Söylenen sözü kişisel bir saldırı olarak değil, size atılmış bir tenis topu olarak görün. Sadece topa vuracaksınız.
+Hazırcevaplık, zekânın kılıcını kınından saniyenin onda biri hızında çekmektir. 
+*   **Çerçeveyi Belirlemek:** Bir soruya doğrudan cevap vermek yerine, sorunun önermesini yok eden başka bir soru sormak.
+*   **Otoriteyi Silahsızlandırmak:** Mizah ile kurulan hiyerarşiyi lehinize çevirmek. Ortamdaki en gergin anın ağırlık merkezini fısıltıyla değiştirmek.
+*   **Fonetik Komedi:** "Karpuz", "Pırasa", "Tencere" gibi P, T, K ve Ç sert sessizlerini barındıran kelimelerin dilde yarattığı vurucu etkiyi kullanmak.
 
 ---
 
